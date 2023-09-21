@@ -8,6 +8,6 @@ layout: default
 **Mistral Power s.r.o**\
 Kurzova 2222/16\
 155 00 Praha 13\
-Česká republika\
+Česká republika
 
 [mistralpower@proton.me](mailto:mistralpower@proton.me)
