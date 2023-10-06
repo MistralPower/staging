@@ -4,6 +4,10 @@ layout: default
 
 
 <style>
+    body {
+        text-align: center;
+    }
+    
     svg {
         width: 250px;
         height: 250px;
