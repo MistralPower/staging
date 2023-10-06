@@ -24,7 +24,6 @@ layout: default
     h1 {
         font-size: 4em;
         font-weight: normal;
-        text-transform: lowercase;
     }
 
     svg {
@@ -64,4 +63,4 @@ layout: default
 </svg>
 <h1>Coming soon!</h1>
 
-Would you like to learn more? Get in touch! [hello@mistralpower.cz](mailto:hello@mistralpower.cz)
+Would you like to learn more? Contact us at [hello@mistralpower.cz](mailto:hello@mistralpower.cz)
