@@ -11,4 +11,4 @@ show_nav_buttons_in_header: false
 google_analytics:
 
 # --- Build settings
-theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
