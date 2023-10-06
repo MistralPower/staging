@@ -4,28 +4,6 @@ layout: default
 
 
 <style>
-    html,
-    body {
-        width: 100%;
-        height: 100%;
-    }
-
-    html {
-        display: table;
-        font-family: Lato, "Segoe UI", Avenir, Ubuntu, Tahoma, Verdana, Helvetica, sans-serif;
-    }
-
-    body {
-        display: table-cell;
-        vertical-align: middle;
-        text-align: center;
-    }
-
-    h1 {
-        font-size: 4em;
-        font-weight: normal;
-    }
-
     svg {
         width: 250px;
         height: 250px;
