@@ -11,4 +11,4 @@ Kurzova 2222/16\
 Česká republika\
 IČO: 19787421
 
-[mistralpower@proton.me](mailto:mistralpower@proton.me)
+[hello@mistralpower.cz](mailto:hello@mistralpower.cz)
